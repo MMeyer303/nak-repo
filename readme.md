@@ -1,4 +1,4 @@
-My first change
+*My first change*\n
 My second change
 first change from feature123
 test
