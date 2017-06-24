@@ -1,7 +1,4 @@
-*My first change*\n
-My second change
-first change from feature123
-test
+*rst change*\n
 blub
 blub2
 blub3
